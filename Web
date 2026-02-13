@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Nombre del negocio</title>
+<title>ECOTEL</title>
 <style>
 body {font-family: Arial; margin: 0; background: #f5f5f5;}
 header {background: #222; color: white; padding: 40px; text-align: center;}
@@ -16,7 +16,7 @@ footer {background: #222; color: white; text-align: center; padding: 20px;}
 <body>
 
 <header>
-<h1>Nombre del negocio</h1>
+<h1>ECOTEL</h1>
 <p>Descripción breve del negocio</p>
 </header>
 
@@ -24,7 +24,7 @@ footer {background: #222; color: white; text-align: center; padding: 20px;}
 <div class="card">
 <h2>Servicios</h2>
 <ul>
-<li>Servicio 1</li>
+<li>TELECOMUNICACIONES</li>
 <li>Servicio 2</li>
 <li>Servicio 3</li>
 </ul>
